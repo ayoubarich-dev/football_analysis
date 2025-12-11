@@ -3,3 +3,6 @@
 *.pt*
 *football-players-detection-1
 *runs/
+*.log
+.vscode/
+*.avi
