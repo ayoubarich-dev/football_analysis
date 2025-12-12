@@ -14,7 +14,7 @@ def main():
     
     print("⚡ Using stub for tracks...")
     
-    tracks = tracker.get_object_trackes(video_frames,read_from_stub=True,stub_path="stubs/tracks_stub.pkl")
+    tracks = tracker.get_object_trackes(video_frames,read_from_stub=True,stub_path="stubs/track_stubs.pkl")
     
     #Draw output 
     ##Draw object Tracks
